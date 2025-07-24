@@ -56,3 +56,43 @@ a.active{
   font-size: 70px;
   font-weight: 500;
 }
+
+.contact-button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding-bottom: 20px;
+  gap: 20px;
+}
+
+.jobs{
+  padding: 40px 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+.jobs a{
+  flex: 1;
+  text-decoration: none;
+  padding: 10px;
+  background: #a4a2a2;
+  color: #000;
+}
+.job-details{
+  padding: 50px 0;
+}
+.job-details p{
+  max-width: 800px;
+  padding: 10px 0;
+}
+.job-details button{
+  background: #000;
+  color: #fff;
+  border: 0;
+  outline: 0;
+  padding: 5px 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}

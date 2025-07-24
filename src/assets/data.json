@@ -1,0 +1,37 @@
+{
+    "jobs":[
+        {
+            "id":1,
+            "title":"Full Stack Developer",
+            "salary":1000000,
+            "location":"Yaounde Cameroon"
+        },
+         {
+            "id":2,
+            "title":"Graphics Designer",
+            "salary":80000,
+            "location":"Douala Cameroon"
+        },
+
+         {
+            "id":3,
+            "title":"Frontend Developer",
+            "salary":500000,
+            "location":"Buea Cameroon"
+        },
+
+         {
+            "id":4,
+            "title":"Backend Developer",
+            "salary":700000,
+            "location":"Limbe Cameroon"
+        },
+
+         {
+            "id":5,
+            "title":"Native Developer",
+            "salary":600000,
+            "location":"Bamenda Cameroon"
+        }
+    ]
+}
